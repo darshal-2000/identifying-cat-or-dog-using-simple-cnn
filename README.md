@@ -46,9 +46,6 @@ This project demonstrates how to build a **Convolutional Neural Network (CNN)** 
 
 The CNN successfully classifies images as either a cat or a dog based on the training data. Detailed results and performance metrics can be found in the notebook.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Medium post link
 https://medium.com/@dthakkar1_22732/building-a-simple-cnn-to-identify-cats-and-dogs-2e58cdf39470
